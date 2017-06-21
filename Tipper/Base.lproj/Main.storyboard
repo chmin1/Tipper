@@ -124,7 +124,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="21%" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BfE-PG-PGZ">
-                                <rect key="frame" x="262" y="247" width="97" height="32"/>
+                                <rect key="frame" x="251" y="247" width="119" height="32"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                 <color key="textColor" red="0.82211033069999995" green="1" blue="0.33157631580000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>

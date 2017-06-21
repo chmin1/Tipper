@@ -49,7 +49,7 @@ class ViewController: UIViewController {
     @IBAction func onSliderChange(_ sender: UISlider)
     {
         let sliderValue = Double(sender.value)
-        fhpercentage.text = String(format: "%.2f","%", sliderValue)
+        fhpercentage.text = String(format: "%.2f%%", sliderValue)
         let tipPercentage = sliderValue * 0.01
         let bill = Double(billField.text!) ?? 0 //change text to double. if user enters non-numerics, default 0
         let tip = bill * tipPercentage
